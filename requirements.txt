@@ -1,0 +1,3 @@
+stanza
+kivy
+pyinstaller
