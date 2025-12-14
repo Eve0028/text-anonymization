@@ -77,5 +77,8 @@ Alternatively run the provided script on Windows:
 - `anonymizer.py` — Stanza-based anonymization logic
 - `requirements.txt` — Python dependencies
 
+## Screenshots
+![anonymized text in GUI](images/anonymized.png)
+
 ## License
 MIT
